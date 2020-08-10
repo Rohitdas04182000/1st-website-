@@ -1,0 +1,39 @@
+/*************************************************tagselector**************************************/
+hr    {
+
+      			border-style: none;
+      			border-color: yellow;
+      			border-top-style:dotted;
+      			border-width: 5px;
+
+      			width: 5%;
+      				
+      			
+      	}
+   h1   {
+
+   	            color: #59405c;
+
+       }
+   body{
+
+               background-color: #ade498;
+      }
+      h3
+      {
+      color: green;
+      }
+/***************************************************classselector****************************************/
+.dog{
+	background-color: pink;
+  }
+ .cat{
+ 	background-color: #b52b65;
+     }
+ .circular{
+ 	border-radius:100%;
+ }
+ /***************************************************idselector******************************************/
+#another{
+	color: gold;
+}
